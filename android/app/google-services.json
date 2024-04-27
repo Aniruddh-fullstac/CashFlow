@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "86382184397",
+    "project_id": "moneyapp-ba2cb",
+    "storage_bucket": "moneyapp-ba2cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86382184397:android:0ae5f886c0d379ab716684",
+        "android_client_info": {
+          "package_name": "com.example.money_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXDK479V8SPvT6O16IivC4xAXzCKIJ4pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
